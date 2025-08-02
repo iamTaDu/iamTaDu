@@ -55,9 +55,10 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 ---
 
 <h2>🎧 Chill with me</h2>
-  My playlist: https://open.spotify.com/collection/tracks
 
-
+- ♫ My playlist: https://open.spotify.com/collection/tracks
+  
+---
 <p align="center">
   <img src="https://i.pinimg.com/originals/3e/4c/9d/3e4c9d81ba6be013081a1506dd7fcdec.gif" width="1000" />
 </p>
