@@ -13,13 +13,12 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 <h2>🔥 Kỹ năng & Công cụ</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
 ---
@@ -27,19 +26,19 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 <h2>📌 Dự án nổi bật</h2>
 
 1. **Web bán đồ điện tử SHNGear**  
-   🔧 Công nghệ sử dụng: React, ASP.NET Core, SQL Server.
+   🔧 Công nghệ sử dụng: React, ASP.NET Core, SQL Server. <br/>
    🔗 [https://github.com/Waito3007/SHNGear](#)
 
 2. **App mạng xã hội ClaraZone**  
-   🔧 Công nghệ sử dụng: Java, Firebase.
+   🔧 Công nghệ sử dụng: Java, Firebase. <br/>
    🔗 [https://github.com/Waito3007/ClaraZone](#)
 
 3. **Web bán túi xách, giày dép MERDI**  
-   🔧 Công nghệ sử dụng: ASP.NET Core MVC, SQL Server.
+   🔧 Công nghệ sử dụng: ASP.NET Core MVC, SQL Server. <br/>
    🔗 [https://github.com/ComBiCha/E-commerce](#)
 
 4. **App bán túi xách, giày dép MERDI**  
-   🔧 Công nghệ sử dụng: Flutter, ASP.NET Core MVC, SQL Server.
+   🔧 Công nghệ sử dụng: Flutter, ASP.NET Core MVC, SQL Server. <br/>
    🔗 [https://github.com/1Tatsumi2/mobile_nang_cao](#)
 
 ---
