@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/your-gif.gif](https://i.pinimg.com/originals/8a/cf/f8/8acff8e587df623ec95f8313f9a88ae9.gif)" width="500" />
+  <img src="https://i.pinimg.com/originals/8a/cf/f8/8acff8e587df623ec95f8313f9a88ae9.gif" width="500" />
 </p>
 <h2>🌟 Giới thiệu</h2>
 
