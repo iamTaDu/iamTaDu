@@ -47,6 +47,10 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
    🔧 Công nghệ sử dụng: Flutter, ASP.NET Core MVC, SQL Server. <br/>
    🔗 [https://github.com/1Tatsumi2/mobile_nang_cao](#)
 
+4. **Website Portfolio**  
+   🔧 Công nghệ sử dụng: NextJS, ThreeJS, Tailwind CSS. <br/>
+   🔗 [https://github.com/iamTaDu/portfolio](#)
+
 ---
 
 <h2>🎯 Mục tiêu học tập</h2>
